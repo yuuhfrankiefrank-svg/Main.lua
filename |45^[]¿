@@ -24,7 +24,3 @@ if not success then
 else
   print("Finished (Bypassed)")
 end
-
-wait(0.22)
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jodta/my-scripts/refs/heads/main/Dex%2B%2B/Decompiler%20Fix.lua"))()
